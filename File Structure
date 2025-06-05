@@ -1,0 +1,16 @@
+theek-hai-lottery/
+│
+├── public/
+│   └── logo.png
+├── src/
+│   ├── App.jsx
+│   ├── main.jsx
+│   ├── components/
+│   │   ├── WalletConnect.jsx
+│   │   ├── LotteryEntry.jsx
+│   │   ├── PoolHistory.jsx
+│   │   └── Banner.jsx
+│   └── assets/
+├── package.json
+├── README.md
+└── vite.config.js
